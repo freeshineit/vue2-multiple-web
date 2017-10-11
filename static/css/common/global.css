@@ -1,0 +1,7 @@
+.f-ws{
+	overflow:hidden;
+	word-wrap:normal;
+	white-space:nowrap;
+	text-overflow:ellipsis;
+	transition: width 2s, height 2s, -webkit-transform 2s;
+}
