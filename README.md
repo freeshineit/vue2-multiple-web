@@ -1,10 +1,16 @@
 # vue2-multiple-web
 
-> A Vue.js project
+> A Vue2.js project
 
 ## Build Setup
 
 ``` bash
+# clone project
+git clone https://github.com/freeshineit/vue2-multiple-web.git
+
+# vue2-multiple-web
+cd vue2-multiple-web
+
 # install dependencies
 npm install
 
@@ -19,7 +25,7 @@ npm run build --report
 ```
 
 
-vue 多页面系统
+vue2 多页面系统
 
 每个页面都可以看成单页面系统（使用vue-router）
 
