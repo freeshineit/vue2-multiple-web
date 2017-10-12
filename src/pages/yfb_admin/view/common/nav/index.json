@@ -1,0 +1,407 @@
+{
+  "data": [{
+      "id": "233",
+      "parentid": "0",
+      "menu_name": "首页",
+      "url": "/pages/yfb_admin/index.html",
+      "type": "1",
+      "class_name": "icon_index",
+      "submenu": []
+    },
+    {
+      "id": "84",
+      "parentid": "0",
+      "menu_name": "用户管理",
+      "url": null,
+      "type": "1",
+      "class_name": "icon_person",
+      "submenu": [{
+          "id": "86",
+          "parentid": "84",
+          "menu_name": "前台用户管理",
+          "url": "/pages/yfb_admin/view/user_manage/fore_end_user_manage/index.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "248",
+          "parentid": "84",
+          "menu_name": "西瓜用户管理",
+          "url": "/pages/yfb_admin/view/user_manage/xg_user_manage/index.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "89",
+          "parentid": "84",
+          "menu_name": "媒体主管理",
+          "url": "/pages/yfb_admin/view/user_manage/media_manage/index.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        }
+      ]
+    },
+    {
+      "id": "90",
+      "parentid": "0",
+      "menu_name": "媒体管理",
+      "url": null,
+      "type": "1",
+      "class_name": "media_man",
+      "submenu": [{
+          "id": "124",
+          "parentid": "90",
+          "menu_name": "微信公众号管理",
+          "url": "/index/wechat_pub_manage.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "249",
+          "parentid": "90",
+          "menu_name": "西瓜公众号管理",
+          "url": "/xigua/xg_wechat_pub_manage.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "126",
+          "parentid": "90",
+          "menu_name": "媒体合集管理",
+          "url": "/index/media_collect.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "127",
+          "parentid": "90",
+          "menu_name": "主题市场管理",
+          "url": "/index/sub_manage.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "128",
+          "parentid": "90",
+          "menu_name": "媒体标签管理",
+          "url": "/index/media_label.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "158",
+          "parentid": "90",
+          "menu_name": "推荐媒体管理",
+          "url": "/index/recommend_media_manage.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        }
+      ]
+    },
+    {
+      "id": "122",
+      "parentid": "0",
+      "menu_name": "订单管理",
+      "url": null,
+      "type": "1",
+      "class_name": "icon_order",
+      "submenu": [{
+          "id": "151",
+          "parentid": "122",
+          "menu_name": "公众号订单管理",
+          "url": "/index/order_manage.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "245",
+          "parentid": "122",
+          "menu_name": "CPC推广管理",
+          "url": "/index/cpc_push_manage.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "152",
+          "parentid": "122",
+          "menu_name": "红人订单管理",
+          "url": "/index/reds_order_manage.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        }
+      ]
+    },
+    {
+      "id": "234",
+      "parentid": "0",
+      "menu_name": "财务管理",
+      "url": "/index/financial.html",
+      "type": "1",
+      "class_name": "financial",
+      "submenu": []
+    },
+    {
+      "id": "92",
+      "parentid": "0",
+      "menu_name": "数据中心",
+      "url": null,
+      "type": "1",
+      "class_name": "statistics",
+      "submenu": [{
+          "id": "232",
+          "parentid": "92",
+          "menu_name": "公众号数据监控",
+          "url": "/index/pub_data_monitor.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "240",
+          "parentid": "92",
+          "menu_name": "用户数据",
+          "url": "/index/user_data.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "242",
+          "parentid": "92",
+          "menu_name": "公众号数据",
+          "url": "/index/accounts_data.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "243",
+          "parentid": "92",
+          "menu_name": "订单数据",
+          "url": "/index/order_data.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "247",
+          "parentid": "92",
+          "menu_name": "CPC推广数据",
+          "url": "/index/cpc_push_data.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        }
+      ]
+    },
+    {
+      "id": "250",
+      "parentid": "0",
+      "menu_name": "CPS管理",
+      "url": null,
+      "type": "1",
+      "class_name": "icon_cps",
+      "submenu": [{
+          "id": "253",
+          "parentid": "250",
+          "menu_name": "上架产品管理",
+          "url": "/cps/shelves_pro_manage.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "254",
+          "parentid": "250",
+          "menu_name": "分销推广计划",
+          "url": "/cps/dist_promote_plan.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "255",
+          "parentid": "250",
+          "menu_name": "分销订单",
+          "url": "/cps/dist_order.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "256",
+          "parentid": "250",
+          "menu_name": "CPS结算",
+          "url": "/cps/clearing.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "257",
+          "parentid": "250",
+          "menu_name": "渠道管理",
+          "url": "/cps/channel_manage.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "258",
+          "parentid": "250",
+          "menu_name": "品类管理",
+          "url": "/cps/category_manage.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "259",
+          "parentid": "250",
+          "menu_name": "基础数据配置",
+          "url": "/cps/basic_data_config.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        }
+      ]
+    },
+    {
+      "id": "160",
+      "parentid": "0",
+      "menu_name": "前台配置",
+      "url": null,
+      "type": "1",
+      "class_name": "inte_conf",
+      "submenu": [{
+        "id": "161",
+        "parentid": "160",
+        "menu_name": "首页管理",
+        "url": "/index/carousel_manage.html",
+        "type": "1",
+        "class_name": "",
+        "submenu": []
+      }]
+    },
+    {
+      "id": "123",
+      "parentid": "0",
+      "menu_name": "更多",
+      "url": null,
+      "type": "1",
+      "class_name": "icon_set",
+      "submenu": [{
+          "id": "129",
+          "parentid": "123",
+          "menu_name": "用户与角色",
+          "url": "/index/sys_user_manage.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "239",
+          "parentid": "123",
+          "menu_name": "迁移数据",
+          "url": "/index/migrate_data.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "238",
+          "parentid": "123",
+          "menu_name": "推送配置",
+          "url": "/index/push_config.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "157",
+          "parentid": "123",
+          "menu_name": "基础数据配置",
+          "url": "/index/pub_basic_data.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "162",
+          "parentid": "123",
+          "menu_name": "商学院管理",
+          "url": "/index/college_article_manage.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "163",
+          "parentid": "123",
+          "menu_name": "媒体公司管理",
+          "url": "/index/media_company_manage.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "164",
+          "parentid": "123",
+          "menu_name": "临时媒体库",
+          "url": "/index/temporary_media.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "235",
+          "parentid": "123",
+          "menu_name": "客户信息",
+          "url": "/index/platform_user_info.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "246",
+          "parentid": "123",
+          "menu_name": "帮助中心配置",
+          "url": "/index/help_center_config.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "260",
+          "parentid": "123",
+          "menu_name": "平台黑名单",
+          "url": "/index/platform_shielding.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        },
+        {
+          "id": "261",
+          "parentid": "123",
+          "menu_name": "西瓜黑名单",
+          "url": "/index/xg_shielding.html",
+          "type": "1",
+          "class_name": "",
+          "submenu": []
+        }
+      ]
+    }
+  ]
+}
