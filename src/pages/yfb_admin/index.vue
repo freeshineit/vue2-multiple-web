@@ -5,8 +5,7 @@
 			<v-header></v-header>
 		</div>
 		<div class="content">
-			<section class="">
-			</section>
+			<v-echarts className="chart1" id="chart1" width='100%' height='400px'></v-echarts>
 		</div>
 		<footer>footer</footer>
 	</div>
@@ -15,6 +14,8 @@
 <script>
 	import Nav from '@/pages/yfb_admin/view/common/nav/index'
 	import Header from '@/pages/yfb_admin/view/common/header/index'
+
+	import Echarts from '@/pages/yfb_admin/view/index/echarts/index'
 
 export default {
 	name: 'index',
@@ -32,7 +33,8 @@ export default {
 	},
 	components: {
 		'v-nav': Nav,
-		'v-header': Header
+		'v-header': Header,
+		'v-echarts': Echarts
 	}
 }
 </script>

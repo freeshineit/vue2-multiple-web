@@ -1,20 +1,16 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-// import Select from '../test/select'
+import Echarts from '@/pages/yfb_admin/view/index/echarts/index'
 
 Vue.use(Router)
 
 export default new Router({
     routes: [
-    // {
-    //     path: '/select',
-    //     name: 'Select',
-    //     component: Select
-    // }, {
-    //     path: '/test',
-    //     name: 'Select',
-    //     component: Test
-    // }
+        {
+            path: '/',
+            name: 'Echarts',
+            component: Echarts
+        }
     ],
     linkActiveClass: 'active'
 })

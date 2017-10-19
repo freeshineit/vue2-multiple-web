@@ -13,7 +13,7 @@ Vue.use(VueResource)
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
-  // router,
+  router,
   template: '<Index/>',
   components: {Index}
 })
